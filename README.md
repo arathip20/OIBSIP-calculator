@@ -1,1 +1,2 @@
-# OIBSIP-calculator
+# Task 3
+calculator
